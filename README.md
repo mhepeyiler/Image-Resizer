@@ -7,8 +7,11 @@ It is quite simple terminal image resizer. It can be resize the images using fou
 - Bicubic
 - Lanczos
 
+Default image interpolation algorithm is bicubic.
+
 ## Example of usage ##
 
 ```
-python resizer.py -f image.jpg -o output.jpg -r 4 -a lanczos
+c:\python resizer.py -f image.jpg -o output.jpg -r 4 -a lanczos
+
 ```
