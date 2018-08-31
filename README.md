@@ -13,5 +13,4 @@ Default image interpolation algorithm is bicubic.
 
 ```
 c:\python resizer.py -f image.jpg -o output.jpg -r 4 -a lanczos
-
 ```
